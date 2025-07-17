@@ -38,3 +38,5 @@ It supports not only basic arithmetic but also equation solving, trigonometry, u
 ```bash
 git clone https://github.com/yourusername/SmartMath-CLI.git
 cd SmartMath-CLI
+python smart_math_cli.py
+
